@@ -1,0 +1,4 @@
+kmM <- survfit(Surv(survy, dead)~ dep, data=mydata, subset=sex==1)
+summary(kmM, times = c(1,5,10))
+plot(kmM, col=1:5)
+
