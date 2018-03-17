@@ -1,6 +1,5 @@
 # Survival_Indicators
-R-code for estimating different survival indicators
-Contains R-code for estimating the following indicators:
+R-code for estimating the following survival indicators
  * Survival probability
  * Conditional Survival Probability
  * Restricted Mean Survival Time
